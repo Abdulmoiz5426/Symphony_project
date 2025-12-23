@@ -148,8 +148,7 @@
               "RelativeToolTip": "symphony\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T09:34:45.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T09:34:45.724Z"
             },
             {
               "$type": "Document",
@@ -161,8 +160,7 @@
               "RelativeToolTip": "symphony\\Controllers\\TeacherController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T20:34:36.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-16T20:34:36.625Z"
             },
             {
               "$type": "Document",
@@ -174,8 +172,7 @@
               "RelativeToolTip": "symphony\\Views\\Home\\log.cshtml",
               "ViewState": "AgIAAAQAAAAAAAAAAAAYwB8AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-20T08:35:32.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-20T08:35:32.067Z"
             },
             {
               "$type": "Document",
@@ -187,8 +184,7 @@
               "RelativeToolTip": "symphony\\Views\\Home\\register.cshtml",
               "ViewState": "AgIAAAoAAAAAAAAAAAAYwCUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-18T21:25:35.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T21:25:35.22Z"
             },
             {
               "$type": "Document",
@@ -200,8 +196,7 @@
               "RelativeToolTip": "symphony\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAADgAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-18T09:11:25.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T09:11:25.074Z"
             },
             {
               "$type": "Document",
@@ -211,7 +206,7 @@
               "RelativeDocumentMoniker": "symphony\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\asc\\Documents\\Symphony_project\\symphony\\symphony\\Controllers\\AccountController.cs",
               "RelativeToolTip": "symphony\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAiwCcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-16T20:33:46.979Z",
               "EditorCaption": ""
@@ -238,8 +233,7 @@
               "RelativeToolTip": "symphony\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAvwBwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T09:35:36.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T09:35:36.846Z"
             },
             {
               "$type": "Document",
@@ -263,8 +257,7 @@
               "RelativeToolTip": "symphony\\Views\\Account\\Logout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-22T21:05:04.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T21:05:04.511Z"
             },
             {
               "$type": "Document",
@@ -288,8 +281,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-12-21T10:42:13.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-21T10:42:13.028Z"
             },
             {
               "$type": "Document",
@@ -529,8 +521,7 @@
               "RelativeToolTip": "symphony\\symphony.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-02T09:27:18.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T09:27:18.575Z"
             }
           ]
         }
